@@ -21,5 +21,6 @@ This project has been created following the MVC with Observer Pattern.
   * Observer
   * Observable
 
-## Author
-Dylan Fandel - HE2B ESI
+## Credits
+
+created at HE2B-ESI
